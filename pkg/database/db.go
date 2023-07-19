@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/gsdenys/pdgen/pkg/models"
+	"github.com/JintaTechx/DDG/tree/main/pkg/models"
 )
 
 // undefinedQueryError function to create a new undefined error instance
