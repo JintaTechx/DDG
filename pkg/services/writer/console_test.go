@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/gsdenys/pdgen/pkg/models"
-	"github.com/gsdenys/pdgen/pkg/services/translate"
+	"github.com/JintaTechx/DDG/tree/main/pkg/models"
+	"github.com/JintaTechx/DDG/tree/main/pkg/services/translate"
 	"github.com/stretchr/testify/assert"
 )
 
