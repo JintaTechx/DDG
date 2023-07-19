@@ -5,7 +5,7 @@ import (
 	"sort"
 
 	"github.com/Xuanwo/go-locale"
-	"github.com/gsdenys/pdgen/pkg/services/translate/lang"
+	"github.com/JintaTechx/DDG/tree/main/pkg/services/translate/lang"
 	"golang.org/x/text/language"
 	"golang.org/x/text/message"
 )
