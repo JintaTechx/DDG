@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/gsdenys/pdgen/pkg/services/translate"
+	"github.com/JintaTechx/DDG/tree/main/pkg/services"
 	"github.com/stretchr/testify/assert"
 )
 
