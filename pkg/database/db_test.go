@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/gsdenys/pdgen/pkg/models"
+	"github.com/JintaTechx/DDG/tree/main/pkg/models"
 	_ "github.com/lib/pq"
 	"github.com/stretchr/testify/assert"
 )
