@@ -5,8 +5,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/gsdenys/pdgen/pkg/services"
-	"github.com/gsdenys/pdgen/pkg/services/writer"
+	"github.com/JintaTechx/DDG/tree/main/pkg/services"
+	"github.com/JintaTechx/DDG/tree/main/pkg/services/writer"
 )
 
 // Options for output format
