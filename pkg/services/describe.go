@@ -1,8 +1,8 @@
 package services
 
 import (
-	"github.com/gsdenys/pdgen/pkg/database"
-	"github.com/gsdenys/pdgen/pkg/models"
+	"github.com/JintaTechx/DDG/tree/main/pkg/database"
+	"github.com/JintaTechx/DDG/tree/main/pkg/models"
 )
 
 // Describe function that has the main objective create the describe data structure that
