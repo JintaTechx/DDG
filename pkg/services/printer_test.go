@@ -7,9 +7,9 @@ import (
 	"testing"
 
 	"github.com/google/uuid"
-	"github.com/gsdenys/pdgen/pkg/models"
-	"github.com/gsdenys/pdgen/pkg/services/translate"
-	"github.com/gsdenys/pdgen/pkg/services/writer"
+	"github.com/JintaTechx/DDG/tree/main/pkg/models"
+	"github.com/JintaTechx/DDG/tree/main/pkg/services/translate"
+	"github.com/JintaTechx/DDG/tree/main/pkg/services/writer"
 	"github.com/stretchr/testify/assert"
 )
 
